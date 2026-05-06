@@ -1,0 +1,13 @@
+[project]
+name = "clase-conexion-rentavariable-modelacion"
+version = "0.1.0"
+description = "Conexión entre cursos de modelación y renta variable"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "yfinance>=0.2",
+    "matplotlib>=3.8",
+    "numpy>=1.26",
+    "pandas>=2.1",
+    "scipy>=1.12",
+]
